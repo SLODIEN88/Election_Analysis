@@ -9,7 +9,7 @@ The purpose of this project was to help complete an election audit for colorado 
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
 6. The voter turnout for each county
-7. he percentage of votes from each county out of the total count
+7. The percentage of votes from each county out of the total count
 8. The county with the highest turnout
 
 ## Resources:
