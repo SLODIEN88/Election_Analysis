@@ -27,7 +27,8 @@ The candidates
 
 ![image](https://user-images.githubusercontent.com/96274446/150656626-381ebd71-0919-42f8-a39b-9c3759486e2c.png)
 
-![image](https://user-images.githubusercontent.com/96274446/150658715-0bcc5267-6601-4199-8b11-b837b1d655f4.png)
+![image](https://user-images.githubusercontent.com/96274446/150658743-7ec037eb-30c0-4a12-8c2a-c1831cd4fe92.png)
+
 
 
  
