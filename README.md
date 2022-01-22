@@ -24,6 +24,9 @@ The candidates
   - Diana DeGette received the most votes, which was 73.8% of the total votes. 
   - In 2nd place, was Charles Casper Stockham who receive 23% of the total votes
   - in 3rd plave, was Raymon Anthony Doane with 3.1% of the total votes
+
+![image](https://user-images.githubusercontent.com/96274446/150656626-381ebd71-0919-42f8-a39b-9c3759486e2c.png)
+
  
  ## Challenge Summary 
  I noticed the code would have been modified further to other stuff other than the counties and the candidates. But, none the less, we still delivered what was asked of us. some of the things we could have looked at, would have been the popularity of the candidate geographically to determine who was most ppular or not in that county
