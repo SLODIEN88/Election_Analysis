@@ -27,6 +27,9 @@ The candidates
 
 ![image](https://user-images.githubusercontent.com/96274446/150656626-381ebd71-0919-42f8-a39b-9c3759486e2c.png)
 
+![image](https://user-images.githubusercontent.com/96274446/150658715-0bcc5267-6601-4199-8b11-b837b1d655f4.png)
+
+
  
  ## Challenge Summary 
  I noticed the code would have been modified further to other stuff other than the counties and the candidates. But, none the less, we still delivered what was asked of us. some of the things we could have looked at, would have been the popularity of the candidate geographically to determine who was most ppular or not in that county
