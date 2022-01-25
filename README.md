@@ -20,7 +20,7 @@ The purpose of this project was to help complete an election audit for colorado 
 - There were 369,711 total votes. 
 - Denver, the county received the most votes, winning a 82.8%
 - Arapahoe was in last place with 6.7% of the total votes, 
-- Aand Jefferson came in second with 10.5% of total votes
+- And Jefferson came in second with 10.5% of total votes
 The candidates:
   - Diana DeGette received the most votes, which was 73.8% of the total votes. 
   - In 2nd place, was Charles Casper Stockham who received 23% of the total votes
@@ -32,5 +32,5 @@ The candidates:
 
  
  ## Challenge Summary 
-Overall, the script was able to produce the results asked for. But, I noticed the script could have been modified further. But, none the less, we still delivered what was asked of us. Some of the things we could have looked at, would have been the popularity of the candidate geographically to determine who was most ppular or not in that county
-I wish we were also give more information like the ages, and the bio data, this would have helped us to really narrow it down
+Overall, the script was able to produce the results asked for. But, I noticed the script could have been modified further. But, none the less, we still delivered what was asked of us. Some of the things we could have looked at, would have been the popularity of the candidate geographically to determine who was most popular or not in that county.
+I wish we were also given more information like the ages, and the bio data, this would have helped us to really narrow it down.
